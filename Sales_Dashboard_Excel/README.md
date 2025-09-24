@@ -41,5 +41,5 @@ The business wanted to answer:
 - `dashboard.png`
 
 ## Output
-![Sales Dashboard](dashboard (2).png)
+![Sales Dashboard](Dashboard (2).png)
 
