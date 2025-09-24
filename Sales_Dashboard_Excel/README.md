@@ -38,4 +38,5 @@ The business wanted to answer:
 •	Prepare for seasonal demand spikes by adjusting inventory and promotions in Q2 and Q4.
 
 ## Output
+![Sales Dashboard] (dashboard (2).png)
 
