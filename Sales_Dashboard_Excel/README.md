@@ -37,6 +37,10 @@ The business wanted to answer:
 •	Strengthen engagement with top profitable customers (e.g., Adrian Barton, Hunter Lopez).
 •	Prepare for seasonal demand spikes by adjusting inventory and promotions in Q2 and Q4.
 
+## Key Files
+- `Data set_ Dashboard.xlsx` → Cleaned data and dashboard 
+- `dashboard.png`
+
 ## Output
 ![Sales Dashboard] (dashboard (2).png)
 
