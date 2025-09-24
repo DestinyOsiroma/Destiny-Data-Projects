@@ -1,5 +1,4 @@
-# Project Title
-Sales Performance Dashboard (Excel)
+# Sales Performance Dashboard (Excel)
 
 ## Overview
 I developed an interactive Excel dashboard to analyse sales performance, profitability, and customer behaviour. The dashboard offers clear insights into revenue drivers, top-performing segments, and monthly sales trends.
