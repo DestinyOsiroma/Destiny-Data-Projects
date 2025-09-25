@@ -14,6 +14,16 @@ The business wanted to answer:
 - **Power BI**: Data modeling, DAX calculations, interactive visualizations
 - **Skills**: Data cleaning, profitability analysis, KPI reporting, report design
 
+## Key Data & Files  
+- **Dataset:** `Sample - Superstore (Power BI).xlsx`  
+  This is the raw dataset used to create the Profit Analysis Report.  
+
+- **Report File:** `Profit_Analysis_Report.pbix`  
+  This interactive Power BI file includes all visuals and analysis.  
+
+- **Report Preview:** `Report.jpeg`  
+  This is a screenshot of the final Profit Analysis dashboard for quick viewing.
+
 ## Process
 1. **Data Cleaning & Preparation**  
    - Removed duplicates, validated fields, and standardized categories.  
@@ -45,5 +55,6 @@ The business wanted to answer:
 - Strengthen growth strategies in the East region, the top-performing market.  
 - Get ready for seasonal profit spikes in Q2 and Q4 with targeted promotions.  
 
-## Dashboard Preview
-![Profit Analysis Dashboard]
+## Report Preview
+![Profit Analysis Report](Report.jpeg)
+
