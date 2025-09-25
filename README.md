@@ -10,7 +10,10 @@ This portfolio highlights selected projects where I:
 - Present recommendations clearly and professionally  
 
 ## 🚀 Featured Projects  
-- **Sales Performance Dashboard (Excel):** Analyzed profitability and customer behavior. I identified high-discount products that reduced margins.   
-
+- **Sales Performance Dashboard (Excel)(Sales_Performance_Dashboard_Excel):** Analyzed profitability and customer behavior. I identified high-discount products that reduced margins.   
+- **Profit Analysis Report (Power BI)(Profit_Analysis_Report_Power BI):**  
+  Analyzed sales and profit trends with Power BI to find **top-performing regions, segments, and categories**.  
+  Identified margin losses due to excessive discounting and gave **practical recommendations** to improve profitability.
+  
 ## 📫Contact  
 - 📧Email: destinyosiroma78@gmail.com@gmail.com    
