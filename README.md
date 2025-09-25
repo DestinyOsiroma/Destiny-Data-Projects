@@ -13,4 +13,4 @@ This portfolio highlights selected projects where I:
 - **Sales Performance Dashboard (Excel):** Analyzed profitability and customer behavior. I identified high-discount products that reduced margins.   
 
 ## 📫Contact  
-- 📧Email: osiromad@gmail.com  
+- 📧Email: destinyosiroma78@gmail.com@gmail.com  
